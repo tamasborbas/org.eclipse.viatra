@@ -1,0 +1,146 @@
+--- RCPTT testcase ---
+Format-Version: 1.0
+Context-Type: org.eclipse.rcptt.ctx.workspace
+Element-Name: VIATRA CPS with Queries Workspace
+Element-Type: context
+Element-Version: 2.0
+Id: _j6aQcPA8EeWlEbYJ7IoFCQ
+Runtime-Version: 2.0.2.201511100828
+Save-Time: 3/22/16 4:39 PM
+
+------=_contents/org.eclipse.viatra.examples.cps.queries/.settings/org.eclipse.jdt.core.prefs-66b20f2b-0d2b-319b-9c2f-a02aef4a84f1
+Content-Type: q7/binary
+Entry-Name: contents/org.eclipse.viatra.examples.cps.queries/.settings/org.eclipse.jdt.core.prefs
+
+UEsDBBQACAgIAAAAIQAAAAAAAAAAAAAAAAAIAAkALmNvbnRlbnRVVAUAAQAAAACVjrEKAjEQRHvBXwnY
+2KWx08pfiJe5YyXZDbM5wb83gtaezTIs84aHqUhzhEbMIHSChwfoYhoP+51xCfhU7rmHyYhxapMCjpCx
+QINoEcXFeXp2vJ8Rmm4FeetAT1zQryX12VjjIRx/k7UVScN3S7vRhk4NyR3s5wztMgsYQRq30tC1/su6
+rfw6vgBQSwcICr5lb4oAAABsAQAAUEsBAhQAFAAICAgAAAAhAAq+ZW+KAAAAbAEAAAgACQAAAAAAAAAA
+AAAAAAAAAC5jb250ZW50VVQFAAEAAAAAUEsFBgAAAAABAAEAPwAAAMkAAAAAAA==
+------=_contents/org.eclipse.viatra.examples.cps.queries/.settings/org.eclipse.jdt.core.prefs-66b20f2b-0d2b-319b-9c2f-a02aef4a84f1--
+------=_contents/org.eclipse.viatra.examples.cps.queries/plugin.xml-21ca90f0-6a9a-35bb-b20f-3853029e9b05
+Content-Type: q7/binary
+Entry-Name: contents/org.eclipse.viatra.examples.cps.queries/plugin.xml
+
+UEsDBBQACAgIAAAAIQAAAAAAAAAAAAAAAAAIAAkALmNvbnRlbnRVVAUAAQAAAAClUMsKwjAQvAv+Q8jd
+VG8ifRzEfoCve0zXspAmMY/S/r1pqz15EHpZdtidYWbSomskacE61CqjO7alBJTQFao6o7drudnTIk+N
+DDWqfL0iJIXOgxreCVYZ1bZmICQaB6xF7i1n0PHGSHBMGMdeASzG/WjcnUusuI/Mc4hnSoxG5X9KDKye
+2aA8NjAhZ0DgE8UoQEcr0UxtdTBknH8Ifaw/UKLv2SVmlOC1On0TlVx4bfvDklALS0mmkpO55YjTZO7/
+DVBLBwhZpBr6wgAAALABAABQSwECFAAUAAgICAAAACEAWaQa+sIAAACwAQAACAAJAAAAAAAAAAAAAAAA
+AAAALmNvbnRlbnRVVAUAAQAAAABQSwUGAAAAAAEAAQA/AAAAAQEAAAAA
+------=_contents/org.eclipse.viatra.examples.cps.queries/plugin.xml-21ca90f0-6a9a-35bb-b20f-3853029e9b05--
+------=_contents/org.eclipse.viatra.examples.cps.queries/META-INF/MANIFEST.MF-c6f5298d-824b-37c5-9459-39cef2aab0e5
+Content-Type: q7/binary
+Entry-Name: contents/org.eclipse.viatra.examples.cps.queries/META-INF/MANIFEST.MF
+
+UEsDBBQACAgIAAAAIQAAAAAAAAAAAAAAAAAIAAkALmNvbnRlbnRVVAUAAQAAAACVUEtLw0AQvi/4H0LP
+ZkhEEFJ6EXJQqIgF75PNNB3dR7q7Cdt/75Y0BSlCvA18z/m2aHhPPuSf5DxbU2UlFOJ5MK2ifHsBr9jD
+jLyhpiqzrgOSintPMDIGh0ARda/Ig+w9HAdyTH4W7U66sYrlv8Rrz6ZTFFL8JriBZrNrpwIKKBMbFe+Z
+nKhjb13I31F+Y7c85/5OLKXCEFiJDzoO7Cif+vzOIb1Pt3X0h+vZ6ARuMIH1DScGigFig+lW3Cwppm1L
+at1My4zTMpvVeZdiNQ926dvWkWR6wJrajOys0WRClb3iiLs6L+FJvOjbAbFHeUh1bPf4JX4AUEsHCCYS
+kdD3AAAANAIAAFBLAQIUABQACAgIAAAAIQAmEpHQ9wAAADQCAAAIAAkAAAAAAAAAAAAAAAAAAAAuY29u
+dGVudFVUBQABAAAAAFBLBQYAAAAAAQABAD8AAAA2AQAAAAA=
+------=_contents/org.eclipse.viatra.examples.cps.queries/META-INF/MANIFEST.MF-c6f5298d-824b-37c5-9459-39cef2aab0e5--
+------=_contents/org.eclipse.viatra.examples.cps.queries/build.properties-da77f446-3222-3d35-b8c0-712a9dd82ac6
+Content-Type: q7/binary
+Entry-Name: contents/org.eclipse.viatra.examples.cps.queries/build.properties
+
+UEsDBBQACAgIAAAAIQAAAAAAAAAAAAAAAAAIAAkALmNvbnRlbnRVVAUAAQAAAABLyszTy8xLzilNSS1W
+sFXwdQ1x1PX0c9PXieHlUkAFeljECnJK04EmVOTm8HIV55cWJafq6QGNKS5KRjcBKKSbnpqnz8uVX1pS
+UFoCVpeUCRIAAFBLBwiwXqhOUwAAAIQAAABQSwECFAAUAAgICAAAACEAsF6oTlMAAACEAAAACAAJAAAA
+AAAAAAAAAAAAAAAALmNvbnRlbnRVVAUAAQAAAABQSwUGAAAAAAEAAQA/AAAAkgAAAAAA
+------=_contents/org.eclipse.viatra.examples.cps.queries/build.properties-da77f446-3222-3d35-b8c0-712a9dd82ac6--
+------=_contents/org.eclipse.viatra.examples.cps.instances/.project-3e764c88-faca-3de7-a6b8-b784cc705139
+Content-Type: q7/binary
+Entry-Name: contents/org.eclipse.viatra.examples.cps.instances/.project
+
+UEsDBBQACAgIAAAAIQAAAAAAAAAAAAAAAAAIAAkALmNvbnRlbnRVVAUAAQAAAABVjjEOwjAMRWeQuEOV
+nRQ2hrQsiAsABwiuVRklThSnVY9PWwqom9/3//4258G7osckFLhSR31QBTKEhrit1ON+3Z/Uud5tTUzh
+hZAvKJAo5tE9qhvD1mMdUqsRHEVB3ZPNyWocrI8ORUMUTSzZMqCYcvZPQQjeI+falN9pUpcWmaFc0bMj
+19wiwme3Rra5S7jE/vA7sX77DVBLBwi1MmgtmAAAAPUAAABQSwECFAAUAAgICAAAACEAtTJoLZgAAAD1
+AAAACAAJAAAAAAAAAAAAAAAAAAAALmNvbnRlbnRVVAUAAQAAAABQSwUGAAAAAAEAAQA/AAAA1wAAAAAA
+
+------=_contents/org.eclipse.viatra.examples.cps.instances/.project-3e764c88-faca-3de7-a6b8-b784cc705139--
+------=_contents/org.eclipse.viatra.examples.cps.instances/demo.cyberphysicalsystem-152f0c9b-b0fa-359d-967a-9aae99e8abfc
+Content-Type: q7/binary
+Entry-Name: contents/org.eclipse.viatra.examples.cps.instances/demo.cyberphysicalsystem
+
+UEsDBBQACAgIAAAAIQAAAAAAAAAAAAAAAAAIAAkALmNvbnRlbnRVVAUAAQAAAADNWF1v2jAUfZ+0/xDl
+aXuxiRM6hMKqCqkaD5UmgdS9usENlhLbil0o/34OKEBRTOxgtr4hfD/PPT7XkN6/l0WwJpWknE3CCAzC
+gLCMLynLJ+HDfDqbhfc/v35JMyHH0+0LqX6vtpJmuJhvpSJl8F7S8cEd1e46IJNj/f0kXCklxhBuNhvA
+yxzwKod/nmaNiQ55MNFHgGQFFZKANcWqwrDkS1JAbRQGdEmYoq+UVJNQEame6qO74SAZITQajoZDFOoa
+gyDFQiy2gsgPHpKWoiBARwL6HDzSSqoHIaYFlnKwd9SulEmFWebiC2of3TEuCp5hRZYL/sFjxaUCc5Jx
+tvylP544RSFs8r6QFV5TXjmklaVOShlVFBcWtuDYpc6nu1ROTZ5H0DH4m8q5ZsiiwkzqMjhzDwhq5BSu
+cqLmdUlWXrEGO1M7rm0wVY+8mtOc4eLb3fcDoh4rjN0rTEwVxqcVpnA/hmvHEp3G7BcC+Z4sAprezrhF
+Jtx+3AK32HfTMVDIvWn0T5tOrifL8KhbsBGuvfLCRnrthXivjD2V+My5vxQjNyk+z3tRi1uMXcW4K4Q7
+fdsjdl7aVjc7AvurseOOtbrdTlkM6Xz3HQGV9JrNDbq7alu0R+x8CBiugHd+oc6Fbxi4EecOkaxF6aJK
+7lRrp8NH0bKXyTbvRieZfkHPhK05vD5n5JYz8pETueVEPnLGbjljHzkTt5zNOyCFBwK68PF8izoSsnUJ
+X2CkyT7jZfnGaL3sn6laWcIdWJHPygpZWQ2srBJXGhh+VbqhWG9GIYoaw1owLX/t9gI++aTAO98/wxvS
+DXjUAbzhcXtDynsls92svSB/QW5N9r1QtMPHjr8+UfTD3wsLxGT/37loh7UdioPWjZhCw5+e+uwvUEsH
+CPAOtNyeAgAAOBUAAFBLAQIUABQACAgIAAAAIQDwDrTcngIAADgVAAAIAAkAAAAAAAAAAAAAAAAAAAAu
+Y29udGVudFVUBQABAAAAAFBLBQYAAAAAAQABAD8AAADdAgAAAAA=
+------=_contents/org.eclipse.viatra.examples.cps.instances/demo.cyberphysicalsystem-152f0c9b-b0fa-359d-967a-9aae99e8abfc--
+------=_contents/org.eclipse.viatra.examples.cps.queries/.classpath-f6bfcc0d-f83d-3b6e-b31b-e14756f8800b
+Content-Type: q7/binary
+Entry-Name: contents/org.eclipse.viatra.examples.cps.queries/.classpath
+
+UEsDBBQACAgIAAAAIQAAAAAAAAAAAAAAAAAIAAkALmNvbnRlbnRVVAUAAQAAAACVkMFKAzEQhs8KvsOS
++07sSQ+7FpEVWrBKu3otaTKk0XQSJ0mxb+8qFsVDaW/zD9//MUwz/tj4aoucXKBWjOBSVEg6GEe2Fc/9
+fX0txjcX5432KqWo8noIZ78JKfOuenNkWqEDiepr2YrAFlB7FxPCq8ngVSG9HpwwnXfLu8dZfzuZdXP5
+n3OUkUl5MLgqFor7aSLDIisyis3LQ7+LKKdqqxZdPYIrIU8+KRoEHRiB8b04RvPki3WUDqkS671qGOXx
+aG2RDuKh5FjyvrFy9A038u/LPwFQSwcIJsHI+tUAAACoAQAAUEsBAhQAFAAICAgAAAAhACbByPrVAAAA
+qAEAAAgACQAAAAAAAAAAAAAAAAAAAC5jb250ZW50VVQFAAEAAAAAUEsFBgAAAAABAAEAPwAAABQBAAAA
+AA==
+------=_contents/org.eclipse.viatra.examples.cps.queries/.classpath-f6bfcc0d-f83d-3b6e-b31b-e14756f8800b--
+------=_.q7.content-3d2e0690-ce48-3609-83e0-c704d49f1eaf
+Content-Type: q7/binary
+Entry-Name: .q7.content
+
+UEsDBBQACAgIAAAAIQAAAAAAAAAAAAAAAAAIAAkALmNvbnRlbnRVVAUAAQAAAACdlF1v2yAUhu8n7T8g
+3xe2XWxV5KyyokTypFRNGzXd1UTwSUKGgQKOnX8/3DqpP/uxO8N5znveA8eEV0Uq0AGM5UqOg6/4S4BA
+MpVwuR0HmdtcXAZXPz9/CpXZYmCCawvYMO0cZq7AuTJ/raYMRqvT10RJB4VDRcpHZ91vpa6vJO3I74+D
+nXN6REie51ilW+zFycM8PiFv1Dqnn5gy/YkjniNnLkCSpp6+j6PlbYQmN3co526HFhkYDhatXkCejIM/
+++90wW6iyymsxHT9+9ePWM0mi8B3j1DIyrake1r4pTZqD8zZqkTd8YFTZyiGgqZagMVMW8yldVQysEEl
+4CU23EerfFzpBaQ/nkCqMDuuwejd0XJGhT1aB+mZD8nJ0X86fHw+lCF/TFDrz8rthhy+1cE64yIpIQ3G
+lYUGOC2yLZfYD0KDUCLxs3SqZcE5P6A1ty2Verf7xM+PMuCLw6Ze95UcnUB/TkgqK0Pe5tNldBFfzwat
+zaPreDa9W+L57CO61rCmZCPqvdejnXjVV5PpUM9z0Ya6YtXcdMEO6ierj+pwnelr07UD9Jr3VPCEOv+0
+3GblAB8eReNea5mdc31PbCjSv9+323OfrZ3WHxuSlxcmJB99bX3SP1BLBwhm9QlO2QEAAMoFAABQSwEC
+FAAUAAgICAAAACEAZvUJTtkBAADKBQAACAAJAAAAAAAAAAAAAAAAAAAALmNvbnRlbnRVVAUAAQAAAABQ
+SwUGAAAAAAEAAQA/AAAAGAIAAAAA
+------=_.q7.content-3d2e0690-ce48-3609-83e0-c704d49f1eaf--
+------=_contents/org.eclipse.viatra.examples.cps.queries/src/org/eclipse/viatra/examples/cps/queries/cpsValidationRules.vql-92c0bb29-a406-300c-a7bc-25dfa231383a
+Content-Type: q7/binary
+Entry-Name: contents/org.eclipse.viatra.examples.cps.queries/src/org/eclipse/viatra/examples/cps/queries/cpsValidationRules.vql
+
+UEsDBBQACAgIAAAAIQAAAAAAAAAAAAAAAAAIAAkALmNvbnRlbnRVVAUAAQAAAACdUctOAkEQPLvJ/kO7
+4bDEzRA8Ykg0xqMxvj5gXHqXCfNYpxuEEP7dmQEElYuedrq2qlJd3cl6JlsE51uBtVYdoVgoyV4KXErT
+aSRRdyTe5+gVUp7lmTKd8wzFlLkbDQa/lQPjJqgHQVZE/vVj0K7ulp12Hn1ZT7Ge4QTG0EhN2M+zTjKj
+t/CEsp7KN43PLBmpzLMzGsII0ljF6XI/5Vkf1gFJg3Bzbp2y7YuXlhQrZ6mkYQXcvwqcAypY+hY5iUqu
+gC4jYfOHiDda/yNlo+zk53YXKeFXgpDhNsQO7SnLyRMXoXFehRDFh/Q2rFdE9xlGaF2QKSooKHoVm/jD
+IFG8ZOD3EizUBC2rRqHvgSKYW7+PAI13BniKoGxoRmpICnAN9MgcC8MFj9Z/PVhst3ho0vc+gMruyjD7
+9Xdo6iTZnzrejiR2QUoyVQqVTveNQdu+IyE9EyO9zsdREUeLLaS2Txwqco6km09QSwcIGd7dfmgBAAD7
+AgAAUEsBAhQAFAAICAgAAAAhABne3X5oAQAA+wIAAAgACQAAAAAAAAAAAAAAAAAAAC5jb250ZW50VVQF
+AAEAAAAAUEsFBgAAAAABAAEAPwAAAKcBAAAAAA==
+------=_contents/org.eclipse.viatra.examples.cps.queries/src/org/eclipse/viatra/examples/cps/queries/cpsValidationRules.vql-92c0bb29-a406-300c-a7bc-25dfa231383a--
+------=_contents/org.eclipse.viatra.examples.cps.queries/.project-020dc832-b147-3bef-8976-6b7ab3a01960
+Content-Type: q7/binary
+Entry-Name: contents/org.eclipse.viatra.examples.cps.queries/.project
+
+UEsDBBQACAgIAAAAIQAAAAAAAAAAAAAAAAAIAAkALmNvbnRlbnRVVAUAAQAAAAC9lE1LxDAQhs8K/oel
+d6d685Dtgoo3RVj9Adl07Kbky3yU+u9N2lQpXWEP0lve6bw8M9NJyK6XYtOhdVyrbXELN8UGFdM1V822
+eH97ur4rdtXVJTFWt8j8IzpmufExO0YviKISK20bQCa4cQgdp95SwJ5KI9ABMw4+A1qOjpRDdrIxLSUq
+X5FyOqVoZrhBlDN1CFzUe4MsqSwfopWqeoicqKT32HsIHNyRWqxHfZ+MaH9LiU5qm5BqcFmX8wApF7Sz
++HkSqfkv8FqLOFJg2iLkzg7r1dLWfkS3tKMrck2N8EwV/0C35ugTds+OKOm/QHNkWr/I88Fizh7FAv8q
+QsPVy/Ax0Yekvwyz36PO85xc7zN5s9XM27jETufU6M91nD8A31BLBwgD45BgIgEAAD8EAABQSwECFAAU
+AAgICAAAACEAA+OQYCIBAAA/BAAACAAJAAAAAAAAAAAAAAAAAAAALmNvbnRlbnRVVAUAAQAAAABQSwUG
+AAAAAAEAAQA/AAAAYQEAAAAA
+------=_contents/org.eclipse.viatra.examples.cps.queries/.project-020dc832-b147-3bef-8976-6b7ab3a01960--
+------=_contents/org.eclipse.viatra.examples.cps.queries/.settings/org.eclipse.pde.core.prefs-3bae860c-b3b8-3447-acba-e3ea0853d9b2
+Content-Type: q7/binary
+Entry-Name: contents/org.eclipse.viatra.examples.cps.queries/.settings/org.eclipse.pde.core.prefs
+
+UEsDBBQACAgIAAAAIQAAAAAAAAAAAAAAAAAIAAkALmNvbnRlbnRVVAUAAQAAAAA1ycEJgDAMBdC70FUC
+DtAdXEHrr0RCUhNbHF88eH0PRbgFqDkqHFoQNODBpnlOU5N+sC5uJ8pNuDqrPbmuEkiTI0wGyD93bF13
+wZ8vUEsHCG8iQ61MAAAAWQAAAFBLAQIUABQACAgIAAAAIQBvIkOtTAAAAFkAAAAIAAkAAAAAAAAAAAAA
+AAAAAAAuY29udGVudFVUBQABAAAAAFBLBQYAAAAAAQABAD8AAACLAAAAAAA=
+------=_contents/org.eclipse.viatra.examples.cps.queries/.settings/org.eclipse.pde.core.prefs-3bae860c-b3b8-3447-acba-e3ea0853d9b2--
