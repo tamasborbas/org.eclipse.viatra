@@ -154,6 +154,8 @@
       <requirement
           name="org.eclipse.uml2.sdk.feature.group"
           versionRange="[5.0.0,6.0.0)"/>
+      <requirement
+          name="org.eclipse.viatra.examples.cps.metamodel.feature.feature.group"/>
       <repositoryList
           name="Mars">
         <repository
@@ -168,6 +170,8 @@
             url="http://download.eclipse.org/modeling/tmf/xtext/updates/composite/releases"/>
         <repository
             url="http://download.eclipse.org/tools/orbit/downloads/drops/R20150124073747/repository/"/>
+        <repository
+            url="https://build.incquerylabs.com/jenkins/job/CPS-Demonstrator/lastSuccessfulBuild/artifact/releng/org.eclipse.viatra.examples.cps.update/target/repository/"/>
       </repositoryList>
       <repositoryList
           name="Neon">
@@ -185,6 +189,8 @@
             url="http://download.eclipse.org/tools/orbit/downloads/drops/R20150124073747/repository/"/>
         <repository
             url="http://download.eclipse.org/modeling/mdt/modisco/updates/release"/>
+        <repository
+            url="https://build.incquerylabs.com/jenkins/job/CPS-Demonstrator/lastSuccessfulBuild/artifact/releng/org.eclipse.viatra.examples.cps.update/target/repository/"/>
       </repositoryList>
     </targlet>
   </setupTask>
