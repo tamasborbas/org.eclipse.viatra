@@ -1,13 +1,13 @@
 --- RCPTT testcase ---
 Format-Version: 1.0
-Contexts: _LipjoO9FEeWazOws8qE-Nw,_xLFOcO9OEeW7SP0a5rPzzg,_NN2OQO9SEeW7SP0a5rPzzg,_RYkiQO9SEeW7SP0a5rPzzg,_UBBLMO9SEeW7SP0a5rPzzg
-Element-Name: Viewers - Sandbox - Initialize
+Contexts: _LipjoO9FEeWazOws8qE-Nw,_j6aQcPA8EeWlEbYJ7IoFCQ,_NN2OQO9SEeW7SP0a5rPzzg,_e2hgwPD1EeW0yqPNDxWanA,_e26iUPD1EeW0yqPNDxWanA
+Element-Name: Query Explorer - Result Viewer - Show location (to .vql file)
 Element-Type: testcase
 Element-Version: 3.0
 External-Reference: 
-Id: _gmkokO91EeW7SP0a5rPzzg
+Id: _s0ZQMPD9EeW0yqPNDxWanA
 Runtime-Version: 2.0.2.201511100828
-Save-Time: 3/23/16 2:14 PM
+Save-Time: 3/23/16 4:35 PM
 Testcase-Type: ecl
 
 ------=_.content-0a7243a0-75d3-3d5f-9791-539de0e5b7ac
@@ -25,12 +25,12 @@ Entry-Name: .content
  *   Tamas Borbas - Testing VIATRA GUI
  *******************************************************************************/
 
-get-view "Viewers Sandbox" | get-group "Activated queries" | get-tree | get-property itemCount | equals 0 
-    | verify-true
+get-view "Project Explorer" | get-tree 
+    | select "org.eclipse.viatra.examples.cps.queries/src/org.eclipse.viatra.examples.cps.queries/simpleCpsQueries.vql" 
+    | double-click
 get-view "Query Explorer" | get-tree -index 1 
-    | select "\[platform:\\/resource\\/org.eclipse.viatra.examples.uml.instances\\/empty-classes.uml\]\[.*\]/uml.emptyclass.emptyClass.*$" 
-    | get-menu "Reinitialize VIATRA Viewers" | click
-get-view "Viewers Sandbox" | get-group "Activated queries" | get-tree 
-    | get-item "Item : uml.emptyclass.emptyClass" | get-property caption | equals "Item : uml.emptyclass.emptyClass" 
-    | verify-true
+    | select "[platform:\\/resource\\/org.eclipse.viatra.examples.cps.instances\\/demo.cyberphysicalsystem][org.eclipse.viatra.examples.cps.cyberPhysicalSystem.presentation.CyberPhysicalSystemEditorID]/org.eclipse.viatra.examples.cps.queries.hasMoreHostedApplications.*$" 
+    | get-menu "Show location" | click
+get-editor "simpleCpsQueries.vql" | get-text-viewer | get-property "getSelectionText()" 
+    | equals hasMoreHostedApplications | verify-true
 ------=_.content-0a7243a0-75d3-3d5f-9791-539de0e5b7ac--
