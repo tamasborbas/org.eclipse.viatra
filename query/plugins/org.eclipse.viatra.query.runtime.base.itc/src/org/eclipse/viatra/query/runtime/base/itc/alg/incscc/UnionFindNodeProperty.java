@@ -11,24 +11,11 @@
 
 package org.eclipse.viatra.query.runtime.base.itc.alg.incscc;
 
-public class UnionFindNodeProperty<V> {
 
-    public int rank;
-    public V parent;
+/**
+ * @deprecated Use superclass from runtime.matchers plug-in instead.
+ */
+@Deprecated
+public class UnionFindNodeProperty<V> extends org.eclipse.viatra.query.runtime.matchers.algorithms.UnionFindNodeProperty<V> {
 
-    public UnionFindNodeProperty() {
-        this.rank = 0;
-        this.parent = null;
-    }
-
-    public UnionFindNodeProperty(int rank, V parent) {
-        super();
-        this.rank = rank;
-        this.parent = parent;
-    }
-
-    @Override
-    public String toString() {
-        return "[rank:" + rank + ", parent:" + parent.toString() + "]";
-    }
 }

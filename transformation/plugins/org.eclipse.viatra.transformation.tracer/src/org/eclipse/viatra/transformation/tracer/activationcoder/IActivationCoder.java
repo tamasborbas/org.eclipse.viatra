@@ -10,11 +10,7 @@
  *******************************************************************************/
 package org.eclipse.viatra.transformation.tracer.activationcoder;
 
-import java.util.Map;
-
 import org.eclipse.viatra.transformation.evm.api.Activation;
-import org.eclipse.viatra.transformation.evm.api.RuleSpecification;
-import org.eclipse.viatra.transformation.runtime.emf.rules.eventdriven.EventDrivenTransformationRule;
 import org.eclipse.viatra.transformation.tracer.transformationtrace.ActivationTrace;
 
 /**
@@ -24,5 +20,5 @@ import org.eclipse.viatra.transformation.tracer.transformationtrace.ActivationTr
  *
  */
 public interface IActivationCoder {
-    public ActivationTrace createActivationCode(Activation<?> activation, Map<RuleSpecification<?>, EventDrivenTransformationRule<?, ?>> rules);
+    public ActivationTrace createActivationCode(Activation<?> activation);
 }
